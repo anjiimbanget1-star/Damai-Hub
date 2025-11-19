@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Damai Hub",
+  "description": "A professional platform for safeguarding peace and reporting threats with anonymous protection and AI verification.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
